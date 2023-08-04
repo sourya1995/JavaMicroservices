@@ -1,0 +1,4 @@
+include ':Microservices:ProductService'
+include ':Microservices:ReviewService'
+include ':Microservices:RecommendationService'
+include ':Microservices:ProductCompositeService'
