@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="API/src/main/java"/>
+	<classpathentry kind="src" path="API/src/test/java"/>
+	<classpathentry kind="src" path="microservices/ProductCompositeService/src/main/java"/>
+	<classpathentry kind="src" path="microservices/ProductCompositeService/src/test/java"/>
+	<classpathentry kind="src" path="microservices/ProductService/src/main/java"/>
+	<classpathentry kind="src" path="microservices/ProductService/src/test/java"/>
+	<classpathentry kind="src" path="microservices/RecommendationService/src/main/java"/>
+	<classpathentry kind="src" path="microservices/RecommendationService/src/test/java"/>
+	<classpathentry kind="src" path="microservices/ReviewService/src/main/java"/>
+	<classpathentry kind="src" path="microservices/ReviewService/src/test/java"/>
+	<classpathentry kind="src" path="util/src/main/java"/>
+	<classpathentry kind="src" path="util/src/test/java"/>
+	<classpathentry kind="lib" path="API/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="util/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="microservices/ProductCompositeService/bin/main"/>
+</classpath>
